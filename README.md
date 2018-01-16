@@ -11,7 +11,3 @@ Seibu coin-op hw analysis tool (Motorola 68000 Assembler)
  * **Tomasz Słanina** - [dox](https://github.com/tslanina)
  ## License
  This project is licensed under the GPL v3 License - see the [LICENSE.md](LICENSE.md) file for details
-dc.l submod_selector
-	dc.l submod_all_macros
-	dc.l submod_exec_macro
-	dc.l -1
